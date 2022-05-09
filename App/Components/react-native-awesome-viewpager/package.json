@@ -1,0 +1,64 @@
+{
+  "_from": "react-native-awesome-viewpager@^1.0.9",
+  "_id": "react-native-awesome-viewpager@1.0.9",
+  "_inBundle": false,
+  "_integrity": "sha512-IB2qeV+jvEdXlzVEdLeHy8yDZlgBqpEKxCuvwJnMx/juFJpk2M5g1SG2L6jS5Dqqz1L3zwQYH8E+0CpGj8RGXw==",
+  "_location": "/react-native-awesome-viewpager",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "react-native-awesome-viewpager@^1.0.9",
+    "name": "react-native-awesome-viewpager",
+    "escapedName": "react-native-awesome-viewpager",
+    "rawSpec": "^1.0.9",
+    "saveSpec": null,
+    "fetchSpec": "^1.0.9"
+  },
+  "_requiredBy": [
+    "/",
+    "/react-native-awesome-viewpager"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-awesome-viewpager/-/react-native-awesome-viewpager-1.0.9.tgz",
+  "_shasum": "3137db996266337f511a13a159ec55ddb7801906",
+  "_spec": "react-native-awesome-viewpager@^1.0.9",
+  "_where": "/Users/abhishek/Desktop/examplereactfb/Gratiphy customer/GratiphyCustomer",
+  "author": {
+    "name": "Spencer Ye"
+  },
+  "bugs": {
+    "url": "https://github.com/pallyoung/react-native-awesome-viewpager/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "react-native-awesome-viewpager": "^1.0.1"
+  },
+  "deprecated": false,
+  "description": "awesome react native swiper",
+  "devDependencies": {
+    "prop-types": ">=15",
+    "react": ">=16.0.0",
+    "react-native": ">=0.48"
+  },
+  "directories": {
+    "example": "example"
+  },
+  "homepage": "https://github.com/pallyoung/react-native-awesome-viewpager#readme",
+  "keywords": [
+    "react",
+    "native",
+    "swpier",
+    "viewpager"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "react-native-awesome-viewpager",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pallyoung/react-native-awesome-viewpager.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.9"
+}

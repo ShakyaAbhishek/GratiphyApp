@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>227309121620-fr7o5rvtc6386tun3c0bdmo8spjodh72.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.227309121620-fr7o5rvtc6386tun3c0bdmo8spjodh72</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>227309121620-0ta6pd94pmeb19qs2qc055gbd3ub6pk5.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBSq-iVWSYAxpS33IgwTnZwEzqadrSN0Fo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>227309121620</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.gratiphycustomer</string>
+	<key>PROJECT_ID</key>
+	<string>gratiphy-b0e92</string>
+	<key>STORAGE_BUCKET</key>
+	<string>gratiphy-b0e92.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:227309121620:ios:030a3c05d6a886f6</string>
+	<key>DATABASE_URL</key>
+	<string>https://gratiphy-b0e92.firebaseio.com</string>
+</dict>
+</plist>
